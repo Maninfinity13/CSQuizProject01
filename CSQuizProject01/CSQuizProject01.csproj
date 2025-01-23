@@ -52,10 +52,19 @@
     <Compile Include="FrmInternetCafe.Designer.cs">
       <DependentUpon>FrmInternetCafe.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmRentRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRentRoom.Designer.cs">
+      <DependentUpon>FrmRentRoom.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmInternetCafe.resx">
       <DependentUpon>FrmInternetCafe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRentRoom.resx">
+      <DependentUpon>FrmRentRoom.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -100,6 +109,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Iconarchive-Cute-Animal-Cute-Sheep.96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hopstarter-Sleek-Xp-Basic-Ok.72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hopstarter-Button-Button-Close.64.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

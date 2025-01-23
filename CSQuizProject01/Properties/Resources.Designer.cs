@@ -103,6 +103,26 @@ namespace CSQuizProject01.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Hopstarter_Button_Button_Close_64 {
+            get {
+                object obj = ResourceManager.GetObject("Hopstarter-Button-Button-Close.64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Hopstarter_Sleek_Xp_Basic_Ok_72 {
+            get {
+                object obj = ResourceManager.GetObject("Hopstarter-Sleek-Xp-Basic-Ok.72", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Iconarchive_Cute_Animal_Cute_Sheep_512 {
             get {
                 object obj = ResourceManager.GetObject("Iconarchive-Cute-Animal-Cute-Sheep.512", resourceCulture);

@@ -117,32 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Graphicloads-Colorful-Long-Shadow-Headphone.24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Graphicloads-Colorful-Long-Shadow-Headphone.24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="20240425_020401" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\20240425_020401.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="GTFzi3yaAAAFw89" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\GTFzi3yaAAAFw89.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Iconarchive-Cute-Animal-Cute-Sheep.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Iconarchive-Cute-Animal-Cute-Sheep.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Iconarchive-Cute-Animal-Cute-Sheep.96" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Iconarchive-Cute-Animal-Cute-Sheep.96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Graphicloads-Colorful-Long-Shadow-Headphone.16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Graphicloads-Colorful-Long-Shadow-Headphone.16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Iconarchive-Cute-Animal-Cute-Sheep.64" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Iconarchive-Cute-Animal-Cute-Sheep.64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Hopstarter-Sleek-Xp-Basic-Ok.72" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Hopstarter-Sleek-Xp-Basic-Ok.72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Hopstarter-Button-Button-Close.64" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Hopstarter-Button-Button-Close.64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
